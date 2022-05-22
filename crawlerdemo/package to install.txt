@@ -1,0 +1,6 @@
+Requirements
+------------
+	pip install bs4
+	pip install requests
+	pip install progressbar2
+	Also see requirements in mongodb demo
